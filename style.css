@@ -1,1 +1,6 @@
-
+.carousel-caption h1 {
+  font-size: 6vw;
+}
+.carousel-caption p {
+  font-size: 2vw;
+}
